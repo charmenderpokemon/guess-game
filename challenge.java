@@ -20,10 +20,10 @@ public class challenge {
                         break;
                     }
                     else if (num<a) {
-                        System.out.println("You are close!\n enter a little higher value");
+                        System.out.println("You are a fool!\n enter a little higher value");
                     }
                     else if (num>a) {
-                        System.out.println("You are close!\n enter a little lower value");
+                        System.out.println("You are foolesh!\n enter a little lower value");
                     }
                     if (Guess==5) {
                         System.out.println("your chances are finished\ndo visit again");
